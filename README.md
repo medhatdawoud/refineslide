@@ -15,9 +15,7 @@ Includes
 
 [imagesLoaded](https://github.com/desandro/imagesloaded) by David Desandro & Paul Irish
 
-License
+Original Credit
 -----
 
-Copyright 2012 Alex Dunphy
-
-Licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php)
+Copyright 2012 [Alex Dunphy](https://github.com/alexdunphy)
